@@ -6,6 +6,15 @@ I'm passionate about **Artificial Intelligence, Machine Learning, and Computer V
 Currently, I'm focused on learning, building projects, and exploring how AI can solve real-world problems.
 
 ---
+<p align="center">
+  <img
+    width="350"
+    alt="T-800"
+    src="https://github.com/user-attachments/assets/2c31f04e-0f05-46b5-9529-cb2226031747"
+  />
+</p>
+---
+
 
 ## 🚀 About Me
 
