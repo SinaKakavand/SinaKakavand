@@ -5,7 +5,8 @@
 I'm passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
 Currently, I'm focused on learning, building projects, and exploring how AI can solve real-world problems.
 
-[![Tech stack: Python, Jupyter, NumPy, pandas, Matplotlib, OpenCV, PyTorch, TensorFlow, Keras, n8n, LangChain, Hugging Face, Ollama, GitHub, Git, Adobe Photoshop, Power BI](https://stack.rajinkhan.com/v1/stack.svg?i=python%2Cjupyter%2Cnumpy%2Cpandas%2Cmatplotlib%2Copencv%2Cpytorch%2Ctensorflow%2Ckeras%2Cn8n%2Clangchain%2Chuggingface%2Collama%2Cgithub%2Cgit%2Cphotoshop%2Cpowerbi)](https://stack.rajinkhan.com/?i=python%2Cjupyter%2Cnumpy%2Cpandas%2Cmatplotlib%2Copencv%2Cpytorch%2Ctensorflow%2Ckeras%2Cn8n%2Clangchain%2Chuggingface%2Collama%2Cgithub%2Cgit%2Cphotoshop%2Cpowerbi)
+[![Tech stack: Python, Jupyter, Visual Studio Code, NumPy, pandas, Matplotlib, PyTorch, Keras, TensorFlow, OpenCV, n8n, LangChain, Ollama, Hugging Face, Kaggle, Power BI, Git, GitHub, Docker, Adobe Photoshop, Blender](https://stack.rajinkhan.com/v1/stack.svg?i=python%2Cjupyter%2Cvscode%2Cnumpy%2Cpandas%2Cmatplotlib%2Cpytorch%2Ckeras%2Ctensorflow%2Copencv%2Cn8n%2Clangchain%2Collama%2Chuggingface%2Ckaggle%2Cpowerbi%2Cgit%2Cgithub%2Cdocker%2Cphotoshop%2Cblender&s=fast)](https://stack.rajinkhan.com/?i=python%2Cjupyter%2Cvscode%2Cnumpy%2Cpandas%2Cmatplotlib%2Cpytorch%2Ckeras%2Ctensorflow%2Copencv%2Cn8n%2Clangchain%2Collama%2Chuggingface%2Ckaggle%2Cpowerbi%2Cgit%2Cgithub%2Cdocker%2Cphotoshop%2Cblender&s=fast)
+
 ---
 
 
@@ -18,40 +19,6 @@ Currently, I'm focused on learning, building projects, and exploring how AI can 
 * 📊 Interested in **Data Science & Data Analysis**
 * 🔗 Exploring **Blockchain & Solidity**
 * 💡 Always learning and building something new
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### 📊 Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 💻 Development & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-
-### 🔗 Other Technologies
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
 
 ---
 
