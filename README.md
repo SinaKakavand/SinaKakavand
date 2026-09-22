@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Sina Kakavand
+![Uploading about.svg…]()
 
-### 🤖 AI & Machine Learning Enthusiast | Python Developer
 
-I'm passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
-Currently, I'm focused on learning, building projects, and exploring how AI can solve real-world problems.
+
+
+
 
 [![Tech stack: Python, Jupyter, Visual Studio Code, NumPy, pandas, Matplotlib, PyTorch, Keras, TensorFlow, OpenCV, n8n, LangChain, Ollama, Hugging Face, Kaggle, Power BI, Git, GitHub, Docker, Adobe Photoshop, Blender](https://stack.rajinkhan.com/v1/stack.svg?i=python%2Cjupyter%2Cvscode%2Cnumpy%2Cpandas%2Cmatplotlib%2Cpytorch%2Ckeras%2Ctensorflow%2Copencv%2Cn8n%2Clangchain%2Collama%2Chuggingface%2Ckaggle%2Cpowerbi%2Cgit%2Cgithub%2Cdocker%2Cphotoshop%2Cblender&s=fast)](https://stack.rajinkhan.com/?i=python%2Cjupyter%2Cvscode%2Cnumpy%2Cpandas%2Cmatplotlib%2Cpytorch%2Ckeras%2Ctensorflow%2Copencv%2Cn8n%2Clangchain%2Collama%2Chuggingface%2Ckaggle%2Cpowerbi%2Cgit%2Cgithub%2Cdocker%2Cphotoshop%2Cblender&s=fast)
 
