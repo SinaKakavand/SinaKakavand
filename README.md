@@ -14,8 +14,6 @@
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, feel free to explore my repositories.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SinaKakavand\&style=for-the-badge\&color=blue)
 
 </div>
