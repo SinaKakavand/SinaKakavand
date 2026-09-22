@@ -5,14 +5,7 @@
 I'm passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.
 Currently, I'm focused on learning, building projects, and exploring how AI can solve real-world problems.
 
----
-<p align="center">
-  <img
-    width="350"
-    alt="T-800"
-    src="https://github.com/user-attachments/assets/2c31f04e-0f05-46b5-9529-cb2226031747"
-  />
-</p>
+[![Tech stack: Python, Jupyter, NumPy, pandas, Matplotlib, OpenCV, PyTorch, TensorFlow, Keras, n8n, LangChain, Hugging Face, Ollama, GitHub, Git, Adobe Photoshop, Power BI](https://stack.rajinkhan.com/v1/stack.svg?i=python%2Cjupyter%2Cnumpy%2Cpandas%2Cmatplotlib%2Copencv%2Cpytorch%2Ctensorflow%2Ckeras%2Cn8n%2Clangchain%2Chuggingface%2Collama%2Cgithub%2Cgit%2Cphotoshop%2Cpowerbi)](https://stack.rajinkhan.com/?i=python%2Cjupyter%2Cnumpy%2Cpandas%2Cmatplotlib%2Copencv%2Cpytorch%2Ctensorflow%2Ckeras%2Cn8n%2Clangchain%2Chuggingface%2Collama%2Cgithub%2Cgit%2Cphotoshop%2Cpowerbi)
 ---
 
 
