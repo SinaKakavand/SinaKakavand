@@ -19,3 +19,4 @@
 [![](https://komarev.com/ghpvc/?username=SinaKakavand&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="800" height="600" alt="original-b76f6ea77eddd9a2ff72b087024d7238" src="https://github.com/user-attachments/assets/3c7ce088-8bc6-4003-8a53-889430a5e3f3" />
