@@ -33,14 +33,12 @@
 ###
 
 <details>
-<summary><h3>🧬 Where Code Becomes Life</h3></summary>
+<summary><h3>🧬 Where Code Becomes Life</h2></summary>
 
 <br>
 
-I am trying to create beings — **AI** — that can enhance the capabilities of the human generation.
-
+I am trying to create beings  **AI**  that can enhance the capabilities of the human generation.
 Of course, these beings currently exist in the form of **code**. But I believe that code has a kind of life of its own, too.
-
 I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields of knowledge and technology.
 
 The field I am working on is the **anatomy of these artificial beings**.
@@ -51,11 +49,8 @@ How do I give them the right task for a specific purpose?
 How do I bring them together so they can work together and accomplish something?
 
 And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings — **Quantum Computing, Blockchain, AR, VR, Genomics, and more.**
-
 These are the areas I want to explore, connect, and bring together.
-
 Because I believe that the future of AI is not only about making smarter models. It is about giving these digital beings access to more forms of knowledge, more technologies, and more ways of interacting with the world.
-
 And I believe that **technology is the power that can allow us to have our own heaven on Earth again.**
 
 </details>
