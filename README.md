@@ -55,7 +55,7 @@ And I believe that **technology is the power that can allow us to have our own h
 
 </details>
 
-<img width="200" height="153" alt="t800walk-sang" src="https://github.com/user-attachments/assets/eb9e414d-a3fb-43fc-a3db-c8ec3790538d" />
-
-
 ###
+
+<img width="6660" height="3776" alt="ascii-magic-11" src="https://github.com/user-attachments/assets/ea6485a8-23bf-4d4f-853d-4197b5937805" />
+
