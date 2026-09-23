@@ -57,5 +57,5 @@ And I believe that **technology is the power that can allow us to have our own h
 
 ###
 
-<img width="6660" height="3776" alt="ascii-magic-11" src="https://github.com/user-attachments/assets/ea6485a8-23bf-4d4f-853d-4197b5937805" />
+<img width="1666" height="944" alt="ChatGPT Image Aug 29, 2026, 04_57_22 PM" src="https://github.com/user-attachments/assets/38ac5a24-5ce4-47e4-93d8-c6f5beb04ef7" />
 
