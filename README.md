@@ -4,6 +4,10 @@
 
 ###
 
+<h2 data-importer="text" align="center">Find the Human Behind the Code :</h2>
+
+###
+
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="50" alt="telegram logo"  />
@@ -13,7 +17,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=SinaKakavand.SinaKakavand&right_color=green&left_text=EYES%20ON%20ME"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=SinaKakavand.SinaKakavand&right_color=green&left_text=Visitors"  />
 </div>
 
 ###
@@ -28,14 +32,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">Where Code Becomes Life?</h1>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SinaKakavand/SinaKakavand/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinaKakavand/SinaKakavand/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SinaKakavand/SinaKakavand/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/SinaKakavand/SinaKakavand/snake-output/snake.svg" alt="Snake animation" />
 
 ###
