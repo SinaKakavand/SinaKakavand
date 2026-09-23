@@ -64,5 +64,4 @@ Perhaps that will be the moment when the **Truman Show ends not because the show
 
 ###
 
-<img width="1666" height="944" alt="ChatGPT Image Aug 29, 2026, 04_57_22 PM" src="https://github.com/user-attachments/assets/38ac5a24-5ce4-47e4-93d8-c6f5beb04ef7" />
-
+<img width="1666" height="944" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/041abd5d-19da-4b90-af02-cf73e395b4ab" />
