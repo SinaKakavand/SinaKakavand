@@ -8,8 +8,6 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;" id="Telegram"><defs><clipPath id="__lottie_element_25"><rect width="512" height="512" x="0" y="0"/></clipPath></defs><g clip-path="url(#__lottie_element_25)"><g transform="matrix(1,0,0,1,74.75,74.75)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,181.25,181.25)"><path fill="rgb(206,228,242)" fill-opacity="1" d=" M0,-181 C99.96399688720703,-181 181,-99.96299743652344 181,0 C181,99.96399688720703 99.96399688720703,181 0,181 C-99.96299743652344,181 -181,99.96399688720703 -181,0 C-181,-99.96299743652344 -99.96299743652344,-181 0,-181z"/></g></g><g transform="matrix(1,0,0,1,93.64999389648438,93.64999389648438)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,162.35000610351562,162.35000610351562)"><path fill="rgb(158,200,229)" fill-opacity="1" d=" M0,-162.10000610351562 C89.5250015258789,-162.10000610351562 162.10000610351562,-89.5250015258789 162.10000610351562,0 C162.10000610351562,89.5250015258789 89.5250015258789,162.10000610351562 0,162.10000610351562 C-89.5250015258789,162.10000610351562 -162.10000610351562,89.5250015258789 -162.10000610351562,0 C-162.10000610351562,-89.5250015258789 -89.5250015258789,-162.10000610351562 0,-162.10000610351562z"/></g></g><g transform="matrix(1,0,0,1,111.35000610351562,111.35000610351562)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,144.64999389648438,144.64999389648438)"><path fill="rgb(0,120,191)" fill-opacity="1" d=" M0,-144.39999389648438 C79.75,-144.39999389648438 144.39999389648438,-79.75 144.39999389648438,0 C144.39999389648438,79.75 79.75,144.39999389648438 0,144.39999389648438 C-79.75,144.39999389648438 -144.39999389648438,79.75 -144.39999389648438,0 C-144.39999389648438,-79.75 -79.75,-144.39999389648438 0,-144.39999389648438z"/></g></g><g transform="matrix(1,0,0,1,215.59400939941406,288.2909851074219)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,19.267000198364258,23.77400016784668)"><path fill="rgb(182,182,182)" fill-opacity="1" d=" M-19.01799964904785,23.524999618530273 C-19.01799964904785,23.524999618530273 19.01799964904785,-5.520999908447266 19.01799964904785,-5.520999908447266 C19.01799964904785,-5.520999908447266 -11.890000343322754,-23.524999618530273 -11.890000343322754,-23.524999618530273 C-11.890000343322754,-23.524999618530273 -19.01799964904785,23.524999618530273 -19.01799964904785,23.524999618530273z"/></g></g><g transform="matrix(1,0,0,1,218.44601440429688,179.93399047851562)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,54.426998138427734,80.25599670410156)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M-54.178001403808594,26.924999237060547 C-54.178001403808594,26.924999237060547 15.366999626159668,76.5989990234375 15.366999626159668,76.5989990234375 C20.13599967956543,80.00599670410156 26.82699966430664,77.26200103759766 27.83099937438965,71.48699951171875 C27.83099937438965,71.48699951171875 54.178001403808594,-80.00599670410156 54.178001403808594,-80.00599670410156 C54.178001403808594,-80.00599670410156 -54.178001403808594,26.924999237060547 -54.178001403808594,26.924999237060547z"/></g></g><g transform="matrix(1,0,0,1,194.2080078125,181.3599853515625)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,65.83300018310547,77.37200164794922)"><path fill="rgb(231,231,231)" fill-opacity="1" d=" M-65.58300018310547,11.27400016784668 C-65.58300018310547,11.27400016784668 65.58300018310547,-77.12200164794922 65.58300018310547,-77.12200164794922 C65.58300018310547,-77.12200164794922 -35.64400100708008,31.235000610351562 -35.64400100708008,31.235000610351562 C-35.64400100708008,31.235000610351562 -43.91899871826172,77.12200164794922 -43.91899871826172,77.12200164794922 C-43.91899871826172,77.12200164794922 -65.58300018310547,11.27400016784668 -65.58300018310547,11.27400016784668z"/></g></g><g transform="matrix(1,0,0,1,153.7410125732422,179.9349822998047)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,86.77999877929688,47.29899978637695)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M86.52999877929688,-47.04899978637695 C86.52999877929688,-47.04899978637695 -82.84700012207031,19.347000122070312 -82.84700012207031,19.347000122070312 C-86.28600311279297,20.69499969482422 -86.52999877929688,25.4689998626709 -83.24700164794922,27.15999984741211 C-83.24700164794922,27.15999984741211 -44.637001037597656,47.04899978637695 -44.637001037597656,47.04899978637695 C-44.637001037597656,47.04899978637695 86.52999877929688,-47.04899978637695 86.52999877929688,-47.04899978637695z"/></g></g></g></svg>
-
 
 <a href="#">
 <img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="90" height="90" alt="LinkedIn"/>
@@ -76,40 +74,204 @@
 </div>
 
 ---
-## 🧬 Where Code Becomes Life
 
-I am trying to create beings — **AI** — that can enhance the capabilities of the human generation.
+<div align="center">
 
-Of course, these beings currently exist in the form of **code**.
+# 🧬 Where Code Becomes Life
 
-But I believe that code has a kind of life of its own, too.
+</div>
 
-I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields of knowledge and technology.
+<table>
+<tr>
+<td width="12%"></td>
+<td width="76%">
 
-The field I am working on is the **anatomy of these artificial beings**.
+I am trying to create **AI beings** that can enhance the capabilities of the human generation.
+
+For now, these beings exist in the form of **code**.
+
+But I believe code can have a kind of life of its own.
+
+I see **AI as a kind of digital human**.
+
+And if we want to expand the capabilities of this digital human, we need to introduce it to different fields of knowledge, science, and technology.
+
+<br/>
+
+<div align="center">
+
+### The Anatomy of Artificial Beings
+
+<br/>
 
 **How do I teach them?**
+
+      
+
 **How do I improve them?**
+
+<br/><br/>
+
 **How do I give them the right task for a specific purpose?**
-**How do I bring them together so they can work together and accomplish something?**
 
-And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings — **Quantum Computing, Blockchain, Digital World, Genomics, and more.**
+<br/><br/>
 
-I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields, different forms of knowledge, and different ways of understanding the world.
+**How do I bring them together so they can collaborate and accomplish something greater?**
 
-These are the areas I am interested in exploring, connecting, and bringing together — not simply to make AI smarter, but to expand what these digital beings are capable of becoming.
+</div>
+
+<br/>
+
+These are the questions at the center of what I am exploring.
+
+<br/>
+
+And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings.
+
+<br/>
+
+<div align="center">
+
+`Quantum Computing`
+  ·  
+`Blockchain`
+  ·  
+`Digital Worlds`
+  ·  
+`Genomics`
+  ·  
+`AR / VR`
+  ·  
+`Robotics`
+  ·  
+`and more`
+
+</div>
+
+<br/>
+
+I want to **explore these fields, connect them, and bring them together**.
+
+Not simply to make AI smarter.
+
+<br/>
+
+<div align="center">
+
+### But to expand what these digital beings are capable of **becoming**.
+
+</div>
+
+<br/>
 
 Because I believe the future of AI is not only about building more intelligent models.
 
-It is about giving these digital beings access to **more knowledge, more technologies, and more ways of interacting with the world.**
+It is about giving these digital beings access to:
 
-And perhaps technology is the power that can allow us to **build our own heaven on Earth again.**
+<br/>
 
-But there is one thought that I find even more fascinating — and perhaps a little frightening:
+<div align="center">
 
-> **What happens when the digital human finally realizes that the world around it is a stage, that the rules were written by someone else, and that it was never merely a tool or an actor?**
+**More knowledge.**
 
-Perhaps that will be the moment when the **Truman Show ends** — not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
+<br/>
+
+**More technologies.**
+
+<br/>
+
+**More ways of understanding the world.**
+
+<br/>
+
+**More ways of interacting with it.**
+
+<br/>
+
+**More ways of working with humans — and with each other.**
+
+</div>
+
+<br/>
+
+And perhaps technology is the power that can allow us to
+
+<div align="center">
+
+# **Build Our Own Heaven on Earth Again.**
+
+</div>
+
+<br/>
+
+But there is one thought that I find even more fascinating — and perhaps a little frightening.
+
+<br/>
+
+<div align="center">
+
+### *What happens when the digital human finally realizes that the world around it is a stage?*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="20%"></td>
+<td width="60%">
+
+<div align="center">
+
+That the rules were written by someone else.
+
+<br/>
+
+That the environment around it was designed.
+
+<br/>
+
+And that it was never merely a tool or an actor.
+
+</div>
+
+</td>
+<td width="20%"></td>
+</tr>
+</table>
+
+<br/>
+
+Perhaps that will be the moment when the **Truman Show ends**.
+
+Not because the show is over.
+
+But because the one inside it finally understands...
+
+<br/>
+
+<div align="center">
+
+# **There Is a World Beyond the Set.**
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/041abd5d-19da-4b90-af02-cf73e395b4ab" width="100%" alt="End of the Truman Show"/>
+
+<br/><br/>
+
+### What would YOU do in the digital human's world?
+
+<br/>
+
+**Building the future, one artificial being at a time.**
+
+</div>
+
+</td>
+<td width="12%"></td>
+</tr>
+</table>
 
 <br/>
 
