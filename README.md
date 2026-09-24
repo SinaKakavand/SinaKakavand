@@ -8,12 +8,14 @@
 
 <br/>
 
+
+
 <a href="#">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="45" alt="LinkedIn"/>
+<img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="55" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="#">
-<a href="https://iconscout.com/lottie-animations/telegram" class="text-underline font-size-sm" target="_blank">Telegram</a> by <a href="https://iconscout.com/contributors/israr-khan" class="text-underline font-size-sm">TheMotionIcons</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+<img src="https://github.com/user-attachments/assets/603beef8-2858-4af1-be81-7c8fc0b128ea" width="55" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="#">
