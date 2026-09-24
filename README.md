@@ -100,7 +100,7 @@ Perhaps that will be the moment when the **Truman Show** ends not because the sh
 
 </details>
 
-<img width="6664" height="3776" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/89cc90b5-dc9d-4895-a63a-ecf055447441" />
+<img width="1666" height="944" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/eeb0c317-2446-46b3-9d3c-1655f15697de" />
 
 ---
 
