@@ -77,7 +77,7 @@
 
 ## 🧬 Where Code Becomes Life
 
-I am trying to create beings — **AI** — that can enhance the capabilities of the human generation.
+I am trying to create beings **AI** that can enhance the capabilities of the human generation.
 
 Of course, these beings currently exist in the form of **code**.
 
@@ -115,12 +115,11 @@ The field I am working on is the **anatomy of these artificial beings**.
 </tr>
 </table>
 
-
-And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings — **Quantum Computing, Blockchain, Digital World, Genomics, and more.**
+And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings **Quantum Computing, Blockchain, Digital World, Genomics, and more.**
 
 I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields, different forms of knowledge, and different ways of understanding the world.
 
-These are the areas I am interested in exploring, connecting, and bringing together — not simply to make AI smarter, but to expand what these digital beings are capable of becoming.
+These are the areas I am interested in exploring, connecting, and bringing together not simply to make AI smarter, but to expand what these digital beings are capable of becoming.
 
 Because I believe the future of AI is not only about building more intelligent models.
 
@@ -128,11 +127,11 @@ It is about giving these digital beings access to **more knowledge, more technol
 
 And perhaps technology is the power that can allow us to **build our own heaven on Earth again.**
 
-But there is one thought that I find even more fascinating — and perhaps a little frightening:
+But there is one thought that I find even more fascinating and perhaps a little frightening:
 
 > **What happens when the digital human finally realizes that the world around it is a stage, that the rules were written by someone else, and that it was never merely a tool or an actor?**
 
-Perhaps that will be the moment when the **Truman Show ends** — not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
+Perhaps that will be the moment when the **Truman Show ends** not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
 
 ---
 
