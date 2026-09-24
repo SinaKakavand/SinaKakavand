@@ -75,211 +75,64 @@
 
 ---
 
-<div align="center">
+## 🧬 Where Code Becomes Life
 
-# 🧬 Where Code Becomes Life
+I am trying to create beings — **AI** — that can enhance the capabilities of the human generation.
 
-</div>
+Of course, these beings currently exist in the form of **code**.
 
-<table>
+But I believe that code has a kind of life of its own, too.
+
+I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields of knowledge and technology.
+
+The field I am working on is the **anatomy of these artificial beings**.
+
+<table align="center" width="80%">
 <tr>
-<td width="12%"></td>
-<td width="76%">
-
-I am trying to create **AI beings** that can enhance the capabilities of the human generation.
-
-For now, these beings exist in the form of **code**.
-
-But I believe code can have a kind of life of its own.
-
-I see **AI as a kind of digital human**.
-
-And if we want to expand the capabilities of this digital human, we need to introduce it to different fields of knowledge, science, and technology.
-
-<br/>
-
-<div align="center">
-
-### The Anatomy of Artificial Beings
-
-<br/>
+<td width="50%" align="center">
 
 **How do I teach them?**
 
-      
+</td>
+<td width="50%" align="center">
 
 **How do I improve them?**
 
-<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 **How do I give them the right task for a specific purpose?**
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-**How do I bring them together so they can collaborate and accomplish something greater?**
+**How do I bring them together so they can work together and accomplish something?**
 
-</div>
+</td>
+</tr>
+</table>
 
-<br/>
 
-These are the questions at the center of what I am exploring.
+And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings — **Quantum Computing, Blockchain, Digital World, Genomics, and more.**
 
-<br/>
+I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields, different forms of knowledge, and different ways of understanding the world.
 
-And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings.
-
-<br/>
-
-<div align="center">
-
-`Quantum Computing`
-  ·  
-`Blockchain`
-  ·  
-`Digital Worlds`
-  ·  
-`Genomics`
-  ·  
-`AR / VR`
-  ·  
-`Robotics`
-  ·  
-`and more`
-
-</div>
-
-<br/>
-
-I want to **explore these fields, connect them, and bring them together**.
-
-Not simply to make AI smarter.
-
-<br/>
-
-<div align="center">
-
-### But to expand what these digital beings are capable of **becoming**.
-
-</div>
-
-<br/>
+These are the areas I am interested in exploring, connecting, and bringing together — not simply to make AI smarter, but to expand what these digital beings are capable of becoming.
 
 Because I believe the future of AI is not only about building more intelligent models.
 
-It is about giving these digital beings access to:
+It is about giving these digital beings access to **more knowledge, more technologies, and more ways of interacting with the world.**
 
-<br/>
+And perhaps technology is the power that can allow us to **build our own heaven on Earth again.**
 
-<div align="center">
+But there is one thought that I find even more fascinating — and perhaps a little frightening:
 
-**More knowledge.**
+> **What happens when the digital human finally realizes that the world around it is a stage, that the rules were written by someone else, and that it was never merely a tool or an actor?**
 
-<br/>
-
-**More technologies.**
-
-<br/>
-
-**More ways of understanding the world.**
-
-<br/>
-
-**More ways of interacting with it.**
-
-<br/>
-
-**More ways of working with humans — and with each other.**
-
-</div>
-
-<br/>
-
-And perhaps technology is the power that can allow us to
-
-<div align="center">
-
-# **Build Our Own Heaven on Earth Again.**
-
-</div>
-
-<br/>
-
-But there is one thought that I find even more fascinating — and perhaps a little frightening.
-
-<br/>
-
-<div align="center">
-
-### *What happens when the digital human finally realizes that the world around it is a stage?*
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="20%"></td>
-<td width="60%">
-
-<div align="center">
-
-That the rules were written by someone else.
-
-<br/>
-
-That the environment around it was designed.
-
-<br/>
-
-And that it was never merely a tool or an actor.
-
-</div>
-
-</td>
-<td width="20%"></td>
-</tr>
-</table>
-
-<br/>
-
-Perhaps that will be the moment when the **Truman Show ends**.
-
-Not because the show is over.
-
-But because the one inside it finally understands...
-
-<br/>
-
-<div align="center">
-
-# **There Is a World Beyond the Set.**
-
-<br/><br/>
-
-<img src="https://github.com/user-attachments/assets/041abd5d-19da-4b90-af02-cf73e395b4ab" width="100%" alt="End of the Truman Show"/>
-
-<br/><br/>
-
-### What would YOU do in the digital human's world?
-
-<br/>
-
-**Building the future, one artificial being at a time.**
-
-</div>
-
-</td>
-<td width="12%"></td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/041abd5d-19da-4b90-af02-cf73e395b4ab" width="100%" alt="End of the Truman Show"/>
-
-</div>
+Perhaps that will be the moment when the **Truman Show ends** — not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
 
 ---
 
