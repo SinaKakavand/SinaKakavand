@@ -2,11 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/0e29ef57-b4bf-4e8c-94e5-7e363a0bc1b4" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<h2>Find the Human Behind the Code: </h2>
-
-<a href="https://www.linkedin.com/in/sinakakavand">
+<h2>Find the Human Behind the Code:</h2><a href="https://www.linkedin.com/in/sinakakavand">
 <img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="90" height="90" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -18,8 +16,7 @@
 <img src="https://github.com/user-attachments/assets/c5f45b75-5ff8-4261-af5e-247b95014ebd" width="90" height="90" alt="Gmail"/>
 </a>
 
-
-
+</div>
 
 <br/><br/>
 
