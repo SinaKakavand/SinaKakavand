@@ -16,12 +16,6 @@
 <img src="https://github.com/user-attachments/assets/c5f45b75-5ff8-4261-af5e-247b95014ebd" width="90" height="90" alt="Gmail"/>
 </a>
 
-</div>
-
-<br/><br/>
-
-</div>
-
 ---
 
 ## 🛠️ What I Build With
@@ -39,11 +33,7 @@
 `Deep Learning`
 `Computer Vision`
 `NLP`
-`Data Analysis`
 `API Integration`
-
-
-</div>
 
 ---
 
@@ -55,14 +45,9 @@
 | ------------------------------ | ------------------------------------------------------------ |
 | 🤖 **Artificial Intelligence** | Intelligent & autonomous digital beings                      |
 | 🧠 **AI Agents**               | Teaching AI to reason, act, and collaborate                  |
-| 👁️ **Computer Vision**        | Giving machines the ability to understand visual information |
-| 🧬 **Genomics**                | Connecting AI with biological knowledge                      |
 | ⚛️ **Quantum Computing**       | Exploring new computational paradigms                        |
 | ⛓️ **Blockchain**              | Decentralized systems and digital ownership                  |
 | 🌐 **Digital Worlds**          | New environments for digital beings                          |
-| 🦾 **Robotics**                | Connecting intelligence with the physical world              |
-
-</div>
 
 ---
 <details>
