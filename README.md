@@ -4,12 +4,9 @@
 
 <br/>
 
-<img width="500" height="500" alt="Gmail (1)" src="https://github.com/user-attachments/assets/c5f45b75-5ff8-4261-af5e-247b95014ebd" />
-
-
 <h2>Find the Human Behind the Code: </h2>
 
-<a href="https://www.linkedin.com/in/Sina Kakavand">
+<a href="https://www.linkedin.com/in/sinakakavand">
 <img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="90" height="90" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -18,8 +15,11 @@
 </a>
 &nbsp;
 <a href="mailto:thesinarofficial@gmail.com">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SinaKakavand.SinaKakavand&right_color=green&left_text=Visitors" width="90" height="90" alt="Gmail"/>
+<img src="https://github.com/user-attachments/assets/c5f45b75-5ff8-4261-af5e-247b95014ebd" width="90" height="90" alt="Gmail"/>
 </a>
+
+
+
 
 <br/><br/>
 
