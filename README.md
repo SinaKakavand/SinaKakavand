@@ -2,9 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/0e29ef57-b4bf-4e8c-94e5-7e363a0bc1b4" width="100%"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55C511&width=435&lines=%3E+FIND+THE+HUMAN+BEHIND+THE+CODE_)](https://git.io/typing-svg)<br/>
 
-<h2>Find the Human Behind the Code:</h2><a href="https://www.linkedin.com/in/sinakakavand">
+<a href="https://www.linkedin.com/in/sinakakavand">
 <img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="90" height="90" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -16,6 +16,12 @@
 <img src="https://github.com/user-attachments/assets/c5f45b75-5ff8-4261-af5e-247b95014ebd" width="90" height="90" alt="Gmail"/>
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SinaKakavand&label=Profile+Views&color=2EA043&style=flat" />
+
+</div>
+
 ---
 
 ## 🛠️ What I Build With
@@ -25,40 +31,52 @@
 <img src="https://stack.rajinkhan.com/v1/stack.svg?i=python,jupyter,vscode,numpy,pandas,matplotlib,pytorch,keras,tensorflow,opencv,n8n,langchain,ollama,huggingface,kaggle,powerbi,git,github,docker,photoshop,blender&s=fast" height="200"/>
 
 `LLM's`
+&nbsp;&nbsp;
 `Agentic AI`
-`Generative AI `
+&nbsp;&nbsp;
+`Generative AI`
+&nbsp;&nbsp;
 `RAG`
+&nbsp;&nbsp;
 `Workflow Automation`
+
 `Machine Learning`
+&nbsp;&nbsp;
 `Deep Learning`
+&nbsp;&nbsp;
 `Computer Vision`
+&nbsp;&nbsp;
 `NLP`
+&nbsp;&nbsp;
 `API Integration`
+
+</div>
 
 ---
 
 ## 🧠 What I Will Exploring
 
-<div align="center">
-
-| Field                          | Focus                                                        |
-| ------------------------------ | ------------------------------------------------------------ |
-| 🤖 **Artificial Intelligence** | Intelligent & autonomous digital beings                      |
-| 🧠 **AI Agents**               | Teaching AI to reason, act, and collaborate                  |
-| ⚛️ **Quantum Computing**       | Exploring new computational paradigms                        |
-| ⛓️ **Blockchain**              | Decentralized systems and digital ownership                  |
-| 🌐 **Digital Worlds**          | New environments for digital beings                          |
+| Field                          | Focus                                       |
+| ------------------------------ | ------------------------------------------- |
+| 🤖 **Artificial Intelligence** | Intelligent & autonomous digital beings     |
+| 🧠 **AI Agents**               | Teaching AI to reason, act, and collaborate |
+| ⚛️ **Quantum Computing**       | Exploring new computational paradigms       |
+| ⛓️ **Blockchain**              | Decentralized systems and digital ownership |
+| 🌐 **Digital Worlds**          | New environments for digital beings         |
 
 ---
 <details>
-<summary><h1>🧬 Where Code Becomes Life</h1></summary>
 
-<br>
+<summary><h1>🧬 Where Code Comes to Life</h1></summary>
+
+<br/>
 
 I am trying to create beings **AI** that can enhance the capabilities of the human generation.
+
 Of course, these beings currently exist in the form of **`code`**.
 
 But I believe that `code` has a kind of life of its own, too.
+
 I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields of knowledge and technology.
 
 The field I am working on is the *anatomy of these artificial beings:*
@@ -101,6 +119,8 @@ But there is one thought that I find even more fascinating and perhaps a little 
 
 Perhaps that will be the moment when the **Truman Show** ends not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
 
+</details>
+
 <img width="1666" height="944" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/e29683fa-ddb3-43c0-b95e-f265cffa063c" />
 
 ---
@@ -108,6 +128,7 @@ Perhaps that will be the moment when the **Truman Show** ends not because the sh
 <div align="center">
 
 ### Stay Hungry Stay Foolish.
+
 **Steve Jobs**
 
 </div>
