@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="#">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="45" alt="Telegram"/>
+<a href="https://iconscout.com/lottie-animations/telegram" class="text-underline font-size-sm" target="_blank">Telegram</a> by <a href="https://iconscout.com/contributors/israr-khan" class="text-underline font-size-sm">TheMotionIcons</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
 </a>
 &nbsp;
 <a href="#">
