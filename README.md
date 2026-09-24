@@ -2,29 +2,28 @@
 
 <img src="https://github.com/user-attachments/assets/0e29ef57-b4bf-4e8c-94e5-7e363a0bc1b4" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55C511&width=435&lines=%3E+FIND+THE+HUMAN+BEHIND+THE+CODE_)](https://git.io/typing-svg)<br/>
+<a href="mailto:thesinarofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px;"/>
+</a>
 
 <a href="https://www.linkedin.com/in/sinakakavand">
-<img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="90" height="90" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://t.me/norahcishere">
-<img src="https://github.com/user-attachments/assets/603beef8-2858-4af1-be81-7c8fc0b128ea" width="90" height="90" alt="Telegram"/>
-</a>
-&nbsp;
-<a href="mailto:thesinarofficial@gmail.com">
-<img src="https://github.com/user-attachments/assets/c5f45b75-5ff8-4261-af5e-247b95014ebd" width="90" height="90" alt="Gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px;"/>
 </a>
 
+<a href="https://t.me/norahcishere">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:30px;"/>
+</a>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SinaKakavand&label=Profile+Views&color=2EA043&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SinaKakavand&label=VIEWER+LOG&color=2EA043&style=flat" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🛠️ What I Build With
+## TOOLS & TECHNOLOGIES
 
 <div align="center">
 
@@ -53,31 +52,15 @@
 </div>
 
 ---
-
-## 🧠 What I Will Exploring
-
-| Field                          | Focus                                       |
-| ------------------------------ | ------------------------------------------- |
-| 🤖 **Artificial Intelligence** | Intelligent & autonomous digital beings     |
-| 🧠 **AI Agents**               | Teaching AI to reason, act, and collaborate |
-| ⚛️ **Quantum Computing**       | Exploring new computational paradigms       |
-| ⛓️ **Blockchain**              | Decentralized systems and digital ownership |
-| 🌐 **Digital Worlds**          | New environments for digital beings         |
-
----
 <details>
 
-<summary><h1>🧬 Where Code Comes to Life</h1></summary>
+<summary><h1>WHEN CODE COMES TO LIFE<h1></summary>
 
 <br/>
 
 I am trying to create beings **AI** that can enhance the capabilities of the human generation.
-
 Of course, these beings currently exist in the form of **`code`**.
-
 But I believe that `code` has a kind of life of its own, too.
-
-I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields of knowledge and technology.
 
 The field I am working on is the *anatomy of these artificial beings:*
 
@@ -102,13 +85,9 @@ The field I am working on is the *anatomy of these artificial beings:*
 </td> </tr> </table>
 
 And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings **`Quantum Computing`**, **`Blockchain`**, **`Digital World`**, **`Genomics`**, and more.
-
-I see **AI as a kind of digital human**. But if we want to increase the capabilities of this digital human, we still need to introduce it to different fields, different forms of knowledge, and different ways of understanding the world.
-
 These are the areas I am interested in exploring, connecting, and bringing together *not simply to make AI smarter*, but to expand what these digital beings are capable of becoming.
 
 Because I believe the future of AI is not only about building more intelligent models.
-
 It is about giving these digital beings access to **more knowledge, more technologies, and more ways of interacting with the world.**
 
 And perhaps technology is the power that can allow us to **build our own heaven on Earth again.**
@@ -121,14 +100,12 @@ Perhaps that will be the moment when the **Truman Show** ends not because the sh
 
 </details>
 
-<img width="1666" height="944" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/e29683fa-ddb3-43c0-b95e-f265cffa063c" />
+<img width="6664" height="3776" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/89cc90b5-dc9d-4895-a63a-ecf055447441" />
 
 ---
 
 <div align="center">
 
-### Stay Hungry Stay Foolish.
-
-**Steve Jobs**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55C511&width=435&lines=%3E+Stay+Hungry+Stay+Foolish_%3B%3E+Steve+Jobs_)](https://git.io/typing-svg)
 
 </div>
