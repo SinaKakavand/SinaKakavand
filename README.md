@@ -74,11 +74,7 @@
 </div>
 
 ---
-
-<details>
-<details> <summary><h3>🧬 Where Code Becomes Life</h2></summary> <br>
-
-<br>
+<details> <summary><h1>🧬 Where Code Becomes Life</h1></summary> <br>
 
 I am trying to create beings **AI** that can enhance the capabilities of the human generation.
 
@@ -135,8 +131,6 @@ But there is one thought that I find even more fascinating and perhaps a little 
 > **What happens when the digital human finally realizes that the world around it is a stage, that the rules were written by someone else, and that it was never merely a tool or an actor?**
 
 Perhaps that will be the moment when the **Truman Show ends** not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
-
-<details>
 
 <img width="1666" height="944" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/e29683fa-ddb3-43c0-b95e-f265cffa063c" />
 
