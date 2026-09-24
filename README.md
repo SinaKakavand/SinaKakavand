@@ -11,11 +11,11 @@
 
 
 <a href="#">
-<img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="255" height="145" alt="LinkedIn"/>
+<img src="https://github.com/user-attachments/assets/b6cc869c-c083-49a1-80f5-7871421447d5" width="90" height="90" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="#">
-<img src="https://github.com/user-attachments/assets/603beef8-2858-4af1-be81-7c8fc0b128ea" width="100" height="100" alt="LinkedIn"/>
+<img src="https://github.com/user-attachments/assets/603beef8-2858-4af1-be81-7c8fc0b128ea" width="90" height="90" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="#">
