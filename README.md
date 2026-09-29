@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0e29ef57-b4bf-4e8c-94e5-7e363a0bc1b4" width="100%"/>
+![Uploading about.svg…]()
 
 <a href="mailto:thesinarofficial@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px;"/>
