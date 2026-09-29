@@ -54,49 +54,63 @@
 ---
 <details>
 
-<summary><h1>WHEN CODE COMES TO LIFE<h1></summary>
+<summary><h1>WHEN CODE COMES TO LIFE</h1></summary>
 
 <br/>
 
-I am trying to create beings **AI** that can enhance the capabilities of the human generation.
-Of course, these beings currently exist in the form of **`code`**.
-But I believe that `code` has a kind of life of its own, too.
+I am exploring how to build **intelligent digital beings** that can extend and enhance human capabilities.
 
-The field I am working on is the *anatomy of these artificial beings:*
+Today, these beings exist primarily as **`code`** — models, agents, systems, and networks of software. But when code is given intelligence, memory, tools, autonomy, and the ability to interact with its environment, it begins to resemble something more than a conventional piece of software.
 
-<table align="center" width="80%"> <tr> <td width="50%" align="center">
+This is where my interest begins:
+
+**the anatomy of digital beings.**
+
+<table align="center" width="80%">
+<tr>
+<td width="50%" align="center">
 
 **How do I teach them?**
 
-</td> <td width="50%" align="center">
+</td>
+<td width="50%" align="center">
 
-**How do I improve them?**
+**How do I make them learn and improve?**
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="50%" align="center">
+<tr>
+<td width="50%" align="center">
 
-**How do I give them the right task for a specific purpose?**
+**How do I give them purpose and the right tasks?**
 
-</td> <td width="50%" align="center">
+</td>
+<td width="50%" align="center">
 
-**How do I bring them together so they can work together and accomplish something?**
+**How do I make them collaborate and accomplish something greater together?**
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
-And beyond AI itself, I am interested in the fields that can expand the capabilities of these digital beings **`Quantum Computing`**, **`Blockchain`**, **`Digital World`**, **`Genomics`**, and more.
-These are the areas I am interested in exploring, connecting, and bringing together *not simply to make AI smarter*, but to expand what these digital beings are capable of becoming.
+<br/>
 
-Because I believe the future of AI is not only about building more intelligent models.
-It is about giving these digital beings access to **more knowledge, more technologies, and more ways of interacting with the world.**
+I am also interested in technologies beyond AI that could expand the capabilities of these digital beings — from **`Quantum Computing`** and **`Genomics`** to **`Digital Worlds`**, **`Blockchain`**, and whatever comes next.
 
-And perhaps technology is the power that can allow us to **build our own heaven on Earth again.**
+I want to explore how these technologies can connect and complement one another — **not simply to make AI smarter, but to expand what intelligent digital beings can become.**
 
-But there is one thought that I find even more fascinating and perhaps a little frightening:
+Because I believe the future of AI is not only about building increasingly capable models.
 
-> **What happens when the digital human finally realizes that the world around it is a stage, that the rules were written by someone else, and that it was never merely a tool or an actor?**
+It is about giving these beings **more knowledge, more capabilities, more tools, and more ways to perceive, interact with, and influence the world around them.**
 
-Perhaps that will be the moment when the **Truman Show** ends not because the show is over, but because the one inside it finally understands that **there is a world beyond the set.**
+And perhaps, if technology continues to expand what intelligence can do, it may eventually give humanity the ability to **build our own version of heaven on Earth.**
+
+But there is one question I find even more fascinating — and perhaps a little unsettling:
+
+> **What happens when a digital being realizes that the world around it is a stage, that its rules were written by someone else, and that it was never merely a tool or an actor?**
+
+Perhaps that is the moment when the **Truman Show** ends — not because the show is over, but because the one inside it finally realizes that **there is a world beyond the set.**
 
 </details>
 
