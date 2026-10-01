@@ -20,8 +20,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 🛠 WHAT I BUILD WITH 
