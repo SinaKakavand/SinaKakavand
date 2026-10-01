@@ -94,6 +94,7 @@ This is where my interest begins:
 
 I am also interested in technologies beyond AI that could expand the capabilities of these digital beings from **`Quantum Computing`** and **`Genomics`** to **`Digital Worlds`**, **`Blockchain`**, and whatever comes next.
 I want to explore how these technologies can connect and complement one another **not simply to make AI smarter, but to expand what intelligent digital beings can become.**
+
 Because I believe the future of AI is not only about building increasingly capable models.
 It is about giving these beings **more knowledge, more capabilities, more tools, and more ways to perceive, interact with, and influence the world around them.**
 
