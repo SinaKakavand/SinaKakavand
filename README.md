@@ -23,7 +23,7 @@
 
 ---
 
-## WHAT I BUILD WITH
+## 🛠 WHAT I BUILD WITH 
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 ---
 <details>
 
-<summary><h1>WHEN CODE COMES TO LIFE</h1></summary>
+<summary><h1>🧬 WHEN CODE COMES TO LIFE</h1></summary>
 
 <br/>
 
