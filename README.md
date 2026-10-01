@@ -104,8 +104,6 @@ But there is one question I find even more fascinating and perhaps a little unse
 
 Perhaps that is the moment when the **Truman Show** ends not because the show is over, but because the one inside it finally realizes that **there is a world beyond the set.**
 
-<img width="200" height="153" alt="t800walk-sang" src="https://github.com/user-attachments/assets/3d022cde-9041-4b44-936d-1f6ab6eda616" />
-
 </details>
 
 <img width="1666" height="944" alt="End of the Truman Show" src="https://github.com/user-attachments/assets/eeb0c317-2446-46b3-9d3c-1655f15697de" />
