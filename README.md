@@ -20,9 +20,11 @@
 
 </div>
 
-<div align="center">
+<br/>
 
 ## 🛠 WHAT I BUILD WITH 
+
+<div align="center">
 
 <img src="https://stack.rajinkhan.com/v1/stack.svg?i=python,jupyter,vscode,numpy,pandas,matplotlib,pytorch,keras,tensorflow,opencv,n8n,langchain,ollama,huggingface,kaggle,powerbi,git,github,docker,photoshop,blender&s=fast" height="200"/>
 
