@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="800" height="320" alt="about" src="https://github.com/user-attachments/assets/93fe8180-f632-4e81-91bc-36ae3e927bd8">
+<img width="800" height="320" alt="about" src="https://github.com/user-attachments/assets/8e274475-626f-4da0-aa0d-6d555d607d9e" />
+
 
 <a href="mailto:thesinarofficial@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px;"/>
