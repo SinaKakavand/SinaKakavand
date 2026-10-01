@@ -121,12 +121,3 @@ Perhaps that is the moment when the **Truman Show** ends not because the show is
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55C511&width=435&lines=%3E+Stay+Hungry+Stay+Foolish_%3B%3E+Steve+Jobs_)](https://git.io/typing-svg)
 
 </div>
-
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/SinaKakavand/SinaKakavand/snake-output/snake.svg" alt="Snake animation" />
-
-###
