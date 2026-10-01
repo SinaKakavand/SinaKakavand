@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ## 🛠 WHAT I BUILD WITH 
 
 <div align="center">
