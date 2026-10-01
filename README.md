@@ -20,7 +20,7 @@
 
 </div>
 
-<h2>WHAT I BUILD WITH </h2>
+<h2>🛠 WHAT I BUILD WITH </h2>
 
 <div align="center">
 
