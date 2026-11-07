@@ -55,12 +55,12 @@
 
 <br/>
 
-I am exploring how to build **intelligent digital beings** that can extend and enhance human capabilities.
+I am exploring how to build **intelligent digital Species** that can extend and enhance human capabilities.
 
-Today, these beings exist primarily as **`code`** models, agents, systems, and networks of software. But when code is given intelligence, memory, tools, autonomy, and the ability to interact with its environment, it begins to resemble something more than a conventional piece of software.
+Today, these Species exist primarily as **`code`** models, agents, systems, and networks of software. But when code is given intelligence, memory, tools, autonomy, and the ability to interact with its environment, it begins to resemble something more than a conventional piece of software.
 
 This is where my interest begins:
-**the anatomy of digital beings.**
+**the anatomy of digital Species.**
 
 <table align="center" width="80%">
 <tr>
@@ -92,11 +92,11 @@ This is where my interest begins:
 
 <br/>
 
-I am also interested in technologies beyond AI that could expand the capabilities of these digital beings from **`Quantum Computing`** and **`Genomics`** to **`Digital Worlds`**, **`Blockchain`**, and whatever comes next.
-I want to explore how these technologies can connect and complement one another **not simply to make AI smarter, but to expand what intelligent digital beings can become.**
+I am also interested in technologies beyond AI that could expand the capabilities of these digital Species from **`Quantum Computing`** and **`Genomics`** to **`Digital Worlds`**, **`Blockchain`**, and whatever comes next.
+I want to explore how these technologies can connect and complement one another **not simply to make AI smarter, but to expand what intelligent digital Species can become.**
 
 Because I believe the future of AI is not only about building increasingly capable models.
-It is about giving these beings **more knowledge, more capabilities, more tools, and more ways to perceive, interact with, and influence the world around them.**
+It is about giving these Species **more knowledge, more capabilities, more tools, and more ways to perceive, interact with, and influence the world around them.**
 
 And perhaps, if technology continues to expand what intelligence can do, it may eventually give humanity the ability to **build our own version of heaven on Earth.**
 
