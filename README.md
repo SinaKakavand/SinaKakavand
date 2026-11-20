@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px;"/>
 </a>
 
-<a href="https://t.me/norahcishere">
+<a href="https://t.me/sinakvkv">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:30px;"/>
 </a>
 <br/>
