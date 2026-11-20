@@ -3,8 +3,6 @@
 <img width="800" height="320" alt="about" src="https://github.com/user-attachments/assets/8e274475-626f-4da0-aa0d-6d555d607d9e" />
 
 
-<img src="https://komarev.com/ghpvc/?username=SinaKakavand&label=Digital Eyes&color=2EA043&style=flat" />
-
 </div>
 
 <h2>🛠 WHAT I BUILD WITH </h2>
