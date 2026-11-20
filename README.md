@@ -3,20 +3,7 @@
 <img width="800" height="320" alt="about" src="https://github.com/user-attachments/assets/8e274475-626f-4da0-aa0d-6d555d607d9e" />
 
 
-<a href="mailto:thesinarofficial@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px;"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sinakakavand">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px;"/>
-</a>
-
-<a href="https://t.me/sinakvkv">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:30px;"/>
-</a>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SinaKakavand&label=VIEWER+LOG&color=2EA043&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SinaKakavand&label=Digital Eyes&color=2EA043&style=flat" />
 
 </div>
 
